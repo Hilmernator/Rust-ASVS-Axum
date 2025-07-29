@@ -1,0 +1,11 @@
+# Rust artifacts
+**/target/
+**/Cargo.lock
+
+# Node modules
+**/node_modules/
+
+# Editor config
+.DS_Store
+.idea/
+.vscode/
